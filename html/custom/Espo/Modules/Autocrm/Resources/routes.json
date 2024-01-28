@@ -1,0 +1,7 @@
+[
+  {
+    "route": "/Autocrm",
+    "method": "get",
+    "actionClassName": "Espo\\Modules\\Autocrm\\Api\\AutocrmAction"
+  }
+]
